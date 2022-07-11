@@ -8,7 +8,7 @@
 "spider":"https://agit.ai/xiaowei/freed/src/branch/master/TVBox/MaooXB2/XBiubiuLA4.jar",
 
 # 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3hpYW93ZWkvVFYvc3JjL2JyYW5jaC9tYXN0ZXIvVFYvdHYvYmMudHh0=="]}]}],
+“生活”：[{ “群组”：“重定向”，“频道”：[{ “名称”：“直播”，“网址”：[ “proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3hpYW93ZWkvVFYvc3JjL2JyYW5jaC9tYXN0ZXIvVFYvdHYvbGl2ZS50eHQ==" ] ]}],
 
 "sites":[
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
