@@ -240,7 +240,8 @@
 {"key":"csp_xpath_94sm","name":"94神马(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/MaooXP/94sm.json"},
 {"key":"csp_xpath_zj883","name":"追剧网(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/MaooXP/zj883.json"},
 {"key":"csp_xpath_cerrd","name":"真不卡影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/MaooXP/cerrd.json"},
-{"key":"csp_xpath_so2","name":"淘剧鸭(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/MaooXP/so2.json"},
+{ "key" : "csp_xpath_so2" , "name" : "淘剧鸭(XP)" , "type" : 3 , "api" : "csp_XPath" , "searchable" : 1 , "quickSearch" : 1 , " filterable " : 0 , "ext" : "https://agit.ai/xiaowei/TV/raw/branch/master/TV/MaooXP/so2.json" },
+{"key":"毕滴磁链","name":""毕滴磁链(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/MaooXP/biditd.json"},
 
 
 ## M浏览器中APP影视规则支持(AppYsV2)
