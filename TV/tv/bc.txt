@@ -199,7 +199,6 @@ TVB J1 [粤语],https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
 凤凰资讯,http://liuy.usa7.20212021.ga/ns.php?id=99
 凤凰中文,http://liuy.usa7.20212021.ga/ns.php?id=100
-翡翠台,http://liuy.usa7.20212021.ga/ns.php?id=78
 无线财经资讯,http://liuy.usa7.20212021.ga/ns.php?id=79
 明珠台,http://liuy.usa7.20212021.ga/ns.php?id=77
 无线财经,http://liuy.usa7.20212021.ga/ns.php?id=73
