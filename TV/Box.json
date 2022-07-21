@@ -19,6 +19,16 @@
       "filterable": 1
     },
     {
+      "key": "yinfans",
+      "name":"音范丝磁力 ",
+      "type": 3,
+      "api": "csp_XPbd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	    "ext": "https://agit.ai/xiaowei/TV/raw/branch/master/TV/MaooXP/yinfans.json"
+    },
+    {
       "key": "bdys",
       "name": "哔嘀(磁力测试)",
       "type": 3,
