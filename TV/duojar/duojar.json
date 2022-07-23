@@ -1,9 +1,9 @@
 // 配置地址 --> clan://localhost/TVBox/bc.json
 
 {
-"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/ts.jar",
-"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/top92921.jar",
-"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/qj.jar",
+"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/fenghe.jar",
+//"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/top92921.jar",
+//"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/qj.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3hpYW93ZWkvVFYvcmF3L2JyYW5jaC9tYXN0ZXIvVFYvdHYvbGl2ZS50eHQ="]}]}],
 
 "sites":[
