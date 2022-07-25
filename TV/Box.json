@@ -1,5 +1,7 @@
 ﻿{ // https://t.me/ChuiShuiGe
-  "sites": [
+  "drives": [{"server":"","userName":"","password":"","type":"webdav"}]
+	 
+	 "sites": [
     {
       "key": "360",
       "name": "360",
