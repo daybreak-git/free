@@ -1,5 +1,5 @@
 ﻿{ // https://t.me/ChuiShuiGe
-  "drives": [{"server":"","userName":"","password":"","type":"webdav"}],
+  "drives": [{"server":"","userName":"","password":"","type":"webdav"}]
 	 
 	 "sites": [
     {
