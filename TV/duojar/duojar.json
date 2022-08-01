@@ -2,8 +2,8 @@
 
 {
 //"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/fenghe.jar",
+//"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/tsqj.jar",
 "spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/tsqj.jar",
-//"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/qj.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3hpYW93ZWkvVFYvcmF3L2JyYW5jaC9tYXN0ZXIvVFYvdHYvbGl2ZS50eHQ="]}]}],
 
 "sites":[
@@ -53,7 +53,6 @@
       "ext": "8cd1030e6b3c45749966665230505ad6"
     },
    {"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-    {"key":"Smdyy_spider"        ,"name":"🐞神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
     {"key":"3EDY","name":"🐞3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"追剧喵","name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"追剧喵","name":"🥇追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
