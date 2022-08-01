@@ -2,8 +2,8 @@
 
 {
 //"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/fenghe.jar",
-//"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/tsqj.jar",
-"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/top94.jar",
+"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/tsqj.jar",
+//"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/top94.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3hpYW93ZWkvVFYvcmF3L2JyYW5jaC9tYXN0ZXIvVFYvdHYvbGl2ZS50eHQ="]}]}],
 
 "sites":[
