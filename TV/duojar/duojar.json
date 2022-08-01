@@ -7,7 +7,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3hpYW93ZWkvVFYvcmF3L2JyYW5jaC9tYXN0ZXIvVFYvdHYvbGl2ZS50eHQ="]}]}],
 
 "sites":[
-{"key":"bdys","name":"哔嘀(磁力测试)","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bdys.json"    },
+
 //{"key":"csp_Lib","name":"🐼Libvio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -52,6 +52,16 @@
       "filterable": 1,
       "ext": "8cd1030e6b3c45749966665230505ad6"
     },
+   {"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+    {"key":"Smdyy_spider"        ,"name":"🐞神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+    {"key":"3EDY","name":"🐞3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"追剧喵","name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"追剧喵","name":"🥇追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
+ {"key":"在线之家","name":"🐞在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+
+    {"key":"csp_Mjxq","name":"🐞美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
+
+
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"🌀低端影视(SP)","api":"csp_DiDuan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🚬厂长(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
