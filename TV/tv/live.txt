@@ -493,9 +493,9 @@ CCTV8K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/1.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8 
 
 🎨地方台,#genre#
-广东,http://39.135.32.24:6610/000000001000/1000000001000028357/1.m3u8?xtkg?zguangd
+广东卫视,http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8
 南方卫视,http://39.135.32.24:6610/000000001000/1000000002000011619/1.m3u8?xtkg?zguangd
-广东珠江,https://m.gdtv.cn/tvChannelDetail/44
+广东珠江,http://39.135.32.24:6610/000000001000/1000000004000011655/1.m3u8?xtkg?zguangd
 南方卫视,http://117.148.179.160/PLTV/88888888/224/3221231661/index.m3u8?zguangd
 南方卫视,http://117.148.179.160/PLTV/88888888/224/3221231661/index.m3u8?zguangd
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
