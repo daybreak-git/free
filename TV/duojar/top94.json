@@ -5,7 +5,7 @@
 //"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/custom_spider.jar",
 "spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/top94.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3hpYW93ZWkvVFYvcmF3L2JyYW5jaC9tYXN0ZXIvVFYvdHYvbGl2ZS50eHQ="]}]}],
-
+"homepage": "https://m.youtube.com/",
 "sites":[
 
 {"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
