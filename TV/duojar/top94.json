@@ -3,14 +3,14 @@
 {
 //"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/fenghe.jar",
 //"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/custom_spider.jar",
-"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/top95.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea",
+"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/top95.jar;md5;6836dbe4fb1bab002775ea8461fca901",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3hpYW93ZWkvVFYvcmF3L2JyYW5jaC9tYXN0ZXIvVFYvdHYvbGl2ZS50eHQ="]}]}],
 
 "homepage": "https://m.huya.com/",
 "sites":[
 
-{"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
-{"key":"csp_IQIYI","name":"💖奇艺TV(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
+{"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;6836dbe4fb1bab002775ea8461fca901"},
+{"key":"csp_IQIYI","name":"💖奇艺TV(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;6836dbe4fb1bab002775ea8461fca901"},
 {
       "key": "csp_QQ",
       "name": "🐧企鹅视频(SP)",
@@ -20,9 +20,9 @@
       "quickSearch": 1,
       "filterable": 1,
 	   "jar": "https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar" },
-{"key":"油库","name":"⛽️优酷TV","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"plugin":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
-{"key":"PTV","name":"🐳PPTV","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"plugin":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
-{"key":"嗖虎","name":"🦊搜狐TV","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"plugin":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},   
+{"key":"油库","name":"⛽️优酷TV","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"plugin":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;6836dbe4fb1bab002775ea8461fca901"},
+{"key":"PTV","name":"🐳PPTV","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"plugin":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;6836dbe4fb1bab002775ea8461fca901"},
+{"key":"嗖虎","name":"🦊搜狐TV","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"plugin":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;6836dbe4fb1bab002775ea8461fca901"},   
 	
 {"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
