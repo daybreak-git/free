@@ -68,7 +68,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "8cd1030e6b3c45749966665230505ad6","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/custom_spider.jar;md5;6836dbe4fb1bab002775ea8461fca901"
+      "ext": "8cd1030e6b3c45749966665230505ad6"
     },
 	
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
