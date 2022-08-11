@@ -535,7 +535,7 @@
 		"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=bhjknprtuyACFIWY78&url="
 	}, {
 		"name": "Tv解析",
-		"type": 0,
+		"type": 1,
 		"url": "https://jx.m3u8.tv/jiexi/?url="
 	}, {
 		"name": "江湖",
