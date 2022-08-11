@@ -529,10 +529,15 @@
 		"type": 1,
 		"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=bhjknprtuyACFIWY78&url="
 	}, {
-		"name": "盘古",
+		"name": "TV解析",
 		"type": 0,
-		"url": "https://www.m3u8.tv.cdn.8old.cn/jx.php?url="
-	}, {
+		"url": "https://jx.m3u8.tv/jiexi/?url="
+	}, 
+	   {
+		"name": "月亮",
+		"type": 0,
+		"url": "https://www.zqzdzj.com/label/v.html?url="
+	},  {
 		"name": "江湖",
 		"type": 1,
 		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
