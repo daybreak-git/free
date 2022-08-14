@@ -17,6 +17,7 @@
 {"key":"追剧喵","name":"🥇追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"在线之家","name":"🐞在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Mjxq","name":"🐞美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"bdys","name":"哔嘀(磁力测试)","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/TV/MaooXP/Bdys.json"    },
 	 
 	{
       "key": "Bili",
