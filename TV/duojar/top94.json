@@ -1,35 +1,21 @@
-// 配置地址 --> clan://localhost/TVBox/bc.json
+{ 
+ //"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/ts.jar", 
+ "spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/tsqj.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea", 
+ //"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/top94.jar", 
+ "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3hpYW93ZWkvVFYvcmF3L2JyYW5jaC9tYXN0ZXIvVFYvdHYvbGl2ZS50eHQ="]}]}], 
+   "homepage": "https://m.huya.com/", 
 
-{
-//"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/fenghe.jar",
-//"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/custom_spider.jar",
-"spider":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/top95.jar;md5;6836dbe4fb1bab002775ea8461fca901",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3hpYW93ZWkvVFYvcmF3L2JyYW5jaC9tYXN0ZXIvVFYvdHYvbGl2ZS50eHQ="]}]}],
-
-"homepage": "https://m.huya.com/",
-"sites":[
-{"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;6836dbe4fb1bab002775ea8461fca901"},
-{"key":"csp_IQIYI","name":"💖奇艺TV(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;6836dbe4fb1bab002775ea8461fca901"},
-{
-      "key": "csp_QQ",
-      "name": "🐧企鹅视频(SP)",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-	   "jar": "https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;6836dbe4fb1bab002775ea8461fca901" },
-{"key":"油库","name":"⛽️优酷TV","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"plugin":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;6836dbe4fb1bab002775ea8461fca901"},
-{"key":"PTV","name":"🐳PPTV","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"plugin":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;6836dbe4fb1bab002775ea8461fca901"},
-{"key":"嗖虎","name":"🦊搜狐TV","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"plugin":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;6836dbe4fb1bab002775ea8461fca901"},   	
-{"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+"sites":[	
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},    
-{"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"3EDY","name":"🐞3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1}, 
+{"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+//{"key":"3EDY","name":"🐞3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"追剧喵","name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"追剧喵","name":"🥇追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"在线之家","name":"🐞在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Mjxq","name":"🐞美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},	 
+{"key":"csp_Mjxq","name":"🐞美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
+	 
 	{
       "key": "Bili",
       "name": "B站",
@@ -52,7 +38,7 @@
     },
     {
       "key": "AliPS",
-      "name": "盘搜",
+      "name": "盘搜(仅搜索)",
       "type": 3,
       "api": "csp_AliPS",
       "searchable": 1,
@@ -62,7 +48,7 @@
     },
     {
       "key": "zhaozy",
-      "name": "找资源",
+      "name": "找资源(仅搜索)",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -70,7 +56,22 @@
       "filterable": 1,
       "ext": "8cd1030e6b3c45749966665230505ad6"
     },
-	
+
+{"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
+{"key":"csp_IQIYI","name":"💖奇艺TV(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
+{
+      "key": "csp_QQ",
+      "name": "🐧企鹅视频(SP)",
+      "type": 3,
+      "api": "csp_QQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	   "jar": "https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar" },
+{"key":"油库","name":"⛽️优酷TV","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"plugin":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
+{"key":"PTV","name":"🐳PPTV","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"plugin":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
+{"key":"嗖虎","name":"🦊搜狐TV","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"plugin":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},   
+
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"🌀低端影视(SP)","api":"csp_DiDuan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🚬厂长(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
@@ -524,20 +525,15 @@
 		"name": "Json轮询",
 		"type": 2,
 		"url": "Sequence"
-	}, {
-		"name": "aiku",
-		"type": 1,
-		"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=bhjknprtuyACFIWY78&url="
-	}, {
-		"name": "TV解析",
+	},  {
+		"name": "parwix2",
 		"type": 0,
-		"url": "https://jx.m3u8.tv/jiexi/?url="
+		"url": "https://jx.parwix.com:4433/player/analysis.php?v=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+		}
 	}, 
 	   {
-		"name": "月亮",
-		"type": 0,
-		"url": "https://www.zqzdzj.com/label/v.html?url="
-	},  {
 		"name": "江湖",
 		"type": 1,
 		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
@@ -547,7 +543,16 @@
 				"User-Agent": "Dart/2.14 (dart:io)"
 			}
 		}
-	}, {
+	},{
+		"name": "TV解析",
+		"type": 0,
+		"url": "https://jx.m3u8.tv/jiexi/?url="
+	}, 
+	   {
+		"name": "月亮",
+		"type": 0,
+		"url": "https://www.zqzdzj.com/label/v.html?url="
+	},  {
 		"name": "左岸",
 		"type": 1,
 		"url": "http://110.42.2.115:880/analysis/json/?uid=2288&my=flmoqszABEIJNQT017&url=",
@@ -593,14 +598,7 @@
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
 		}
-	}, {
-		"name": "parwix2",
-		"type": 0,
-		"url": "https://jx.parwix.com:4433/player/analysis.php?v=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
-		}
-	}, {
+	},{
 		"name": "线路m9",
 		"type": 1,
 		"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
