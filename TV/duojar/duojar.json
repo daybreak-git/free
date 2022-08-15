@@ -537,13 +537,11 @@
 		"name": "Json轮询",
 		"type": 2,
 		"url": "Sequence"
-	},{
+	},
+	   {
 		"name": "七哥解析",
 		"type": 0,
-		"url": "https://jx.mmkv.cn/m3u8.php?url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
-		}
+		"url": "https://jx.mmkv.cn/m3u8.php?url="
 	}, 
 	   {
 		"name": "月亮EXO播放器",
