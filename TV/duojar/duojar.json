@@ -546,6 +546,11 @@
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
 		}
 	},  
+	     {
+		"name": "TV",
+		"type": 0,
+		"url": "https://jx.mmkv.cn/tv.php?url="
+	}, 
 	   {
 		"name": "月亮EXO播放器",
 		"type": 0,
