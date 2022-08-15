@@ -586,17 +586,7 @@
 			}
 		}
 	}, 
-	    {
-		"name": "江湖",
-		"type": 1,
-		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
-		"ext": {
-			"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905", "优播线路", "腾播线路"],
-			"header": {
-				"User-Agent": "Dart/2.14 (dart:io)"
-			}
-		}
-	},
+	    
 	   {
 		"name": "随便1",
 		"type": 1,
