@@ -546,25 +546,16 @@
 		}
 	}, 
 	   {
-		"name": "江湖",
-		"type": 1,
-		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
-		"ext": {
-			"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905", "优播线路", "腾播线路"],
-			"header": {
-				"User-Agent": "Dart/2.14 (dart:io)"
-			}
-		}
-	},{
-		"name": "TV解析",
-		"type": 0,
-		"url": "https://jx.m3u8.tv/jiexi/?url="
-	}, 
-	   {
 		"name": "月亮",
 		"type": 0,
 		"url": "https://www.zqzdzj.com/label/v.html?url="
-	},  {
+	}, 
+	   {
+		"name": "8090",
+		"type": 0,
+		"url": "https://www.8090g.cn/jiexi/?url="
+	}, 
+	   {
 		"name": "左岸",
 		"type": 1,
 		"url": "http://110.42.2.115:880/analysis/json/?uid=2288&my=flmoqszABEIJNQT017&url=",
@@ -581,7 +572,19 @@
 				"User-Agent": "okhttp/4.1.0"
 			}
 		}
-	}, {
+	}, 
+	    {
+		"name": "江湖",
+		"type": 1,
+		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+		"ext": {
+			"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905", "优播线路", "腾播线路"],
+			"header": {
+				"User-Agent": "Dart/2.14 (dart:io)"
+			}
+		}
+	},
+	   {
 		"name": "随便1",
 		"type": 1,
 		"url": "http://cl.yjhan.com:8090/home/api?type=ys&uid=821518&key=aghlmnyBFIJMPRX489&url="
