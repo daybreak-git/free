@@ -2,6 +2,7 @@
 {
 	"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/mainjar.jar;md5;b173fa6f9ec130b949e36e880a43716f",
 	//"wallpaper": "https://agit.ai/xiaowei/TV/raw/branch/master/TV/W-.png",
+	"homepage": "https://m.huya.com/",
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
