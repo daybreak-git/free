@@ -11,7 +11,6 @@
 	}],
 	"sites": [
 	    
-	    {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/bili.json"},
 	    {
 			"key": "csp_77",
 			"name": "💓酷云七七（推荐）",
@@ -55,7 +54,37 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
+		}, 
+			{
+			"key": "AliPS",
+			"name": "🔍阿狸盘搜(仅搜索)",
+			"type": 3,
+			"api": "csp_AliPanSou",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "8cd1030e6b3c45749966665230505ad6"
 		}, {
+			"key": "zhaozy",
+			"name": "🗂️找资源(仅搜索)",
+			"type": 3,
+			"api": "csp_FindZY",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "8cd1030e6b3c45749966665230505ad6"
+		}, {
+			"key": "push_agent",
+			"name": "🎯推送（爱优腾/阿里云盘/磁力链接）",
+			"type": 3,
+			"api": "csp_PushAgent",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "8cd1030e6b3c45749966665230505ad6"
+		}, 
+		
+		{
 			"key": "天堂资源",
 			"name": "📌天堂资源(官)",
 			"type": 1,
@@ -270,7 +299,9 @@
 			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "悬疑片", "动画片", "武侠片", "奇幻片", "少儿", "其他片"]
 		},
 		{"key":"KanSJ_spider","name":"🛰️看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-//		{"key":"293视频","name":"🎟293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
+                  {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/bili.json"},
+	   
+		//		{"key":"293视频","name":"🎟293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 		
 		{
 			"key": "csp_AppYsV2",
@@ -625,42 +656,8 @@
 		{"key":"小学课堂","name":"📚小学课堂（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/小学课堂.php"},
 		{"key":"初中课堂","name":"📚初中课堂（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/初中课堂.php"},
 		{"key":"高中教育","name":"📚高中课堂（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/高中课堂.php"},
-		{
-			"key": "AliPS",
-			"name": "🔍阿狸盘搜(仅搜索)",
-			"type": 3,
-			"api": "csp_AliPanSou",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "8cd1030e6b3c45749966665230505ad6"
-		}, {
-			"key": "zhaozy",
-			"name": "🗂️找资源(仅搜索)",
-			"type": 3,
-			"api": "csp_FindZY",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "8cd1030e6b3c45749966665230505ad6"
-		}, {
-			"key": "push_agent",
-			"name": "🎯推送（爱优腾/阿里云盘/磁力链接）",
-			"type": 3,
-			"api": "csp_PushAgent",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "8cd1030e6b3c45749966665230505ad6"
-		}, {
-			"key": "更多",
-			"name": "🚫失效反馈Q群：493192284",
-			"type": 1,
-			"api": "",
-			"searchable": 0,
-			"quickSearch": 0
-		}
-	],
+	
+		
 	"parses": [{
 		"name": "解析聚合",
 		"type": 3,
