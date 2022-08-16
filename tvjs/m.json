@@ -110,15 +110,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		//{
-			"key": "Kuaikan",
-			"name": "👀快看",
-			"type": 3,
-			"api": "csp_Kuaikan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		}, {
+		{
 			"key": "在线之家",
 			"name": "🏠在线之家",
 			"type": 3,
