@@ -109,7 +109,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		}, {
+		},
+		//{
 			"key": "Kuaikan",
 			"name": "👀快看",
 			"type": 3,
