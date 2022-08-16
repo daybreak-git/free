@@ -1,6 +1,6 @@
 //无公众号，不引流，只是为小白提供一个方便，接口缝合自巧技大佬和唐三大佬,大哥随便扒，记得改链接~
 {
-	"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/mainjar.jar",
+	"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/mainjar.jar;md5;b173fa6f9ec130b949e36e880a43716f",
 	//"wallpaper": "https://agit.ai/xiaowei/TV/raw/branch/master/TV/W-.png",
 	"lives": [{
 		"group": "redirect",
