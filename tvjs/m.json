@@ -62,7 +62,7 @@
 			
 {"key":"Zhaozy","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/ali.jar;md5;50873684e56831f13e6d119ec2862c4a"},
 
-			"key": "push_agent",
+                       {"key": "push_agent",
 			"name": "🎯推送（爱优腾/阿里云盘/磁力链接）",
 			"type": 3,
 			"api": "csp_PushAgent",
