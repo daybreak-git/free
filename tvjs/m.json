@@ -65,8 +65,9 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "8cd1030e6b3c45749966665230505ad6"
-		}, {
+			"ext": "8cd1030e6b3c45749966665230505ad6","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/ts.jar;md5;d579bd6161d5fc0390be133e394fcd58"},
+		
+				{
 			"key": "push_agent",
 			"name": "🎯推送（爱优腾/阿里云盘/磁力链接）",
 			"type": 3,
