@@ -60,7 +60,7 @@
 		}, 
 		{"key": "csp_Yisou"    ,"name":"🐞易搜盘","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"8cd1030e6b3c45749966665230505ad6","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/ali.jar;md5;50873684e56831f13e6d119ec2862c4a"},
 			
-                {"key":"Zhaozy","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"8cd1030e6b3c45749966665230505ad6","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/quan.jar;md5;fdb736f1a66a56ab77e626fb4faf8d70"},
+                {"key":"Zhaozy","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"8cd1030e6b3c45749966665230505ad6","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/ts.jar;md5;d579bd6161d5fc0390be133e394fcd58"},
 
                        {"key": "push_agent",
 			"name": "🎯推送（爱优腾/阿里云盘/磁力链接）",
