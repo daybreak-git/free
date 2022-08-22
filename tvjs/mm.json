@@ -59,8 +59,17 @@
 			"filterable": 1
 		}, 
 
-               {"key": "csp_Gitcafe","name": "📜小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "8cd1030e6b3c45749966665230505ad6","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/yuanhuaxb.jar"},
-                {"key": "csp_Yiso"    ,"name":"🐞易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"8cd1030e6b3c45749966665230505ad6","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/yuanhuaxb.jar"},
+{
+      "key": "Gitcafe",
+      "name": "小纸条",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "8cd1030e6b3c45749966665230505ad6"
+    },
+		{"key": "csp_Yiso"    ,"name":"🐞易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"8cd1030e6b3c45749966665230505ad6","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/yuanhuaxb.jar"},
 		{"key": "AliPS","name": "找资源(仅搜索)","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"8cd1030e6b3c45749966665230505ad6","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/yuanhuaxb.jar"},
                      
 		{
@@ -205,62 +214,22 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "csp_QQ",
-			"name": "🐧腾讯（官）",
-			"type": 3,
-			"api": "csp_QQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		}, {
-			"key": "csp_MGTV",
-			"name": "🥭芒果（官）",
-			"type": 3,
-			"api": "csp_MGTV",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		}, {
-			"key": "csp_IQIYI",
-			"name": "🥝爱奇艺（官）",
-			"type": 3,
-			"api": "csp_IQIYI",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+	{"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
+{"key":"csp_IQIYI","name":"💖奇艺TV(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
+{
+      "key": "csp_QQ",
+      "name": "🐧企鹅视频(SP)",
+      "type": 3,
+      "api": "csp_QQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	   "jar": "https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar" },
+{"key":"油库","name":"⛽️优酷TV","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"plugin":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
+{"key":"PTV","name":"🐳PPTV","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"plugin":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
+{"key":"嗖虎","name":"🦊搜狐TV","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"plugin":"https://agit.ai/xiaowei/TV/raw/branch/master/TV/jar/官源.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},   
 
-		{
-			"key": "youku",
-			"name": "👑优酷（官）",
-			"type": 0,
-			"api": "https://www.bajiezy.xyz/api.php/provide/vod/from/youku/at/xml/",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "冒险片", "悬疑片", "动画片", "武侠片", "奇幻片", "少儿", "其他片"]
-		},
-		{
-			"key": "PpTV",
-			"name": "📺PPTV（官）",
-			"type": 0,
-			"api": "https://www.bajiezy.xyz/api.php/provide/vod/from/pptv/at/xml/",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "冒险片", "悬疑片", "动画片", "武侠片", "少儿", "其他片"]
-		},
-		{
-			"key": "souhu",
-			"name": "🦊搜狐（官）",
-			"type": 0,
-			"api": "https://www.bajiezy.xyz/api.php/provide/vod/from/sohu/at/xml/",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "悬疑片", "动画片", "武侠片", "奇幻片", "少儿", "其他片"]
-		},
+		
 		{"key":"KanSJ_spider","name":"🛰️看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
                   {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/bili.json"},
 	   
