@@ -94,3 +94,10 @@ CCTV-8K,http://117.148.129.93:80/PLTV/88888888/224/3221233350/1.m3u8
 深圳卫视,http://39.136.48.58:8089/PLTV/88888888/224/3221226150/index.m3u8
 深圳卫视,http://222.132.191.125:9901/tsfile/live/0126_1.m3u8
 深圳卫视,http://117.169.120.140:8080/live/hdshenzhenstv/.m3u8
+
+深圳都市,http://livepull-sz01.cutv.com/live/szmg82.m3u8
+深圳都市,http://stream.guihet.com/t/sztv.php?id=2
+
+翡翠台,http://113.64.147.86:808/hls/67/index.m3u8
+翡翠台,http://113.64.147.62:808/hls/67/index.m3u8
+翡翠台,http://113.64.147.111:808/hls/67/index.m3u8
