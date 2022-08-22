@@ -1,8 +1,9 @@
 📺黄枥葳电视台,#genre#
 
 广东珠江,http://61.143.45.150:9901/tsfile/live/0018_1.m3u8
-广东珠江,http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/zjpd/playlist.m3u8
-广东珠江,http://nclive.grtn.cn/zjpd/sd/live.m3u8
+﻿广东珠江(腾讯),http://taoyun.duapp.com/qqlive.php?tvid=1926463423#http://zb.v.qq.com:1863/?progid=1926463423#http://zb.v.qq.com:1863/?progid=1926463423&ostype=ios#http://113.17.172.21:1863/1926463423.m3u8?apptype=live&pla=3&cdn=wangsu#http://zb.v.qq.com:1863/?progid=1926463423&ostype=live&ext=.flv#http://zb.v.qq.com:1863/?progid=1926463423&ostype=ios&rid=ba312773ba9241e081937101a5651b6b#http://183.60.171.39:1863/1926463423.m3u8?apptype=unknow&pla=unknow&cdn=zijian
+广东珠江(其他),http://httplive.gdtv.cn:1935/live/zjpd/playlist.m3u8#rtmp://v2.gdtv.cn:1935/live/zjpd#http://www.radio366.com/tv/asx/%D6%E9%BD%AD%B5%E7%CA%D3%CC%A8.asx#rtsp://116.199.127.68/zhujiang#http://master.anewtv.com/real/3.m3u8#http://f.live.video.qiyi.com/live/c15_gz-zhujws_s10.flv
+广东珠江(PPTV),http://web-play.pptv.com/web-m3u8-300453.m3u8?type=phone.android#http://web-play.pptv.com/web-m3u8-300453.m3u8?type=phone.ios#http://web-play.pptv.com/web-m3u8-300453.m3u8?type=pad#http://play.api.pptv.com/web-m3u8-300453.m3u8?type=ppbox
 广东珠江,http://fxhack.f3322.org:8000/udp/239.77.0.1:5146
 
 广东卫视,http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8
