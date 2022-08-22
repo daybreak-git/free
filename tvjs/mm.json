@@ -59,8 +59,8 @@
 			"filterable": 1
 		}, 
 
-                                {"key": "csp_Gitcafe","name": "📜小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "8cd1030e6b3c45749966665230505ad6","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/yuanhuaxb.jar;md5;acc9342e0488b454637854295249dfb1"},
-                                {"key": "csp_Yiso"    ,"name":"🐞易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"8cd1030e6b3c45749966665230505ad6","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/yuanhuaxb.jar;md5;acc9342e0488b454637854295249dfb1"},
+               {"key": "csp_Gitcafe","name": "📜小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "8cd1030e6b3c45749966665230505ad6","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/yuanhuaxb.jar;md5;acc9342e0488b454637854295249dfb1"},
+                {"key": "csp_Yiso"    ,"name":"🐞易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"8cd1030e6b3c45749966665230505ad6","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/yuanhuaxb.jar;md5;acc9342e0488b454637854295249dfb1"},
 		{"key": "AliPS","name": "找资源(仅搜索)","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"8cd1030e6b3c45749966665230505ad6","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/yuanhuaxb.jar;md5;acc9342e0488b454637854295249dfb1"},
                      
 		{
@@ -620,7 +620,8 @@
 		{"key":"初中课堂","name":"📚初中课堂（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/初中课堂.php"},
 		{"key":"高中教育","name":"📚高中课堂（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/高中课堂.php"},
 	
-            {"key":"csp_AliPS","name":"阿里盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"8cd1030e6b3c45749966665230505ad6"},
+            {"key":"csp_AliPS","name":"阿里盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"8cd1030e6b3c45749966665230505ad6"	}
+	],
                    
 		
 	"parses": [{
