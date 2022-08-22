@@ -1,8 +1,8 @@
 //无公众号，不引流，只是为小白提供一个方便，接口缝合自巧技大佬和唐三大佬,大哥随便扒，记得改链接~
 {
 
-//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/quanXB.jar;md5;acc9342e0488b454637854295249dfb1",
- "spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/mainjar.jar;md5;b173fa6f9ec130b949e36e880a43716f",
+  "spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/yuanhuaxb.jar;md5;acc9342e0488b454637854295249dfb1",
+ //"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/mainjar.jar;md5;b173fa6f9ec130b949e36e880a43716f",
 	//"wallpaper": "https://agit.ai/xiaowei/TV/raw/branch/master/TV/W-.png",
 	"homepage": "https://m.huya.com/",
 	"lives": [{
