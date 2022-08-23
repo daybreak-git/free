@@ -1,5 +1,5 @@
 📺黄枥葳电视台,#genre#
-广东珠江,https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=30520607b24dc2e861b2820f1dbc58bb-fZweKpeYKydGr7r0UDGUaVPg6Rd5Gcn725EMFymnBsN2k7877DwSXAvLY2AcH3ZozRtrozYa9zuOI1nLDE5Nixr68IO%2F8%2BQ%2BJRXP1IEQIUL6oVrNppzGBXjfJzhPYgWdH3dCW7uysNt92SZ4KH%2F1vQz%2BJbJdqDVazM0AzPrHJWtbD58vbw6r9Efwm9WTZzHzvPecdt%2FdH6wphsInrVcNmht1gQcXdmA%2B7EW%2BZnSH0wc1j6GYpH%2BAP%2Fu3LiJ9SpzE3%2F7UtpAsKPW7BnNBqgGIq47iVRo9r0cCjxuRFNsNq5I%3D
+广东珠江,http://183.11.239.32:808/hls/12/index.m3u8
 
 广东卫视,http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8
 翡翠台,http://120.84.96.222:808/hls/25/index.m3u8
