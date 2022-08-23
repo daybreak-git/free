@@ -1,13 +1,5 @@
 📺黄枥葳电视台,#genre#
 广东珠江,http://9.zhxinda.xyz/gdtv.php?pk=1183
-//广东珠江,http://120.236.17.34:808/hls/249/index.m3u8
-//广东珠江,http://183.11.239.32:808/hls/1/index.m3u8?
-//广东珠江,http://9.zhxinda.xyz/gdtv.php?pk=1183
-//广东珠江,http://113.105.4.154:8880/hls/2/index.m3u8
-//广东珠江,http://120.237.252.67:8800/hls/2/index.m3u8
-//广东珠江,http://py.fatcat.icu:8880/hls/2/index.m3u8
-//广东珠江,http://ct.whosayssowhat.top:4022/udp/239.77.0.3:5146
-//广东珠江,http://fxhack.f3322.org:8000/udp/239.77.0.1:5146
 
 广东卫视,http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8
 翡翠台,http://120.84.96.222:808/hls/25/index.m3u8
