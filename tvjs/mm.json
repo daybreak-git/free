@@ -58,27 +58,9 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		}, {
+		}, 
 
-   "key": "csp_biubiu_迷你库",
-
-   "name": "迷你库",
-
-   "type": 3,
-
-   "api": "csp_XBiubiu",
-
-   "searchable": 1,
-
-   "quickSearch": 1,
-
-   "filterable": 0,
-
-   "ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/miniku.json"
-
-  },
-
-{
+      {
       "key": "Gitcafe",
       "name": "小纸条",
       "type": 3,
