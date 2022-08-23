@@ -1,5 +1,5 @@
 📺黄枥葳电视台,#genre#
-
+广东珠江,http://9.zhxinda.xyz/gdtv.php?pk=1183
 广东珠江,http://120.236.17.34:808/hls/249/index.m3u8
 广东珠江,http://183.11.239.32:808/hls/1/index.m3u8?
 广东珠江,http://9.zhxinda.xyz/gdtv.php?pk=1183
