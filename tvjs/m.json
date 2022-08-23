@@ -4,7 +4,7 @@
 	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/xinyuanhua.jar;md5;93916acff9fc42ea3a679a8209bb640b",
   //"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/yuanhuaxb.jar;md5;acc9342e0488b454637854295249dfb1",
   // "spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/mainjar.jar;md5;b173fa6f9ec130b949e36e880a43716f",
-	//"wallpaper": "https://agit.ai/xiaowei/TV/raw/branch/master/TV/W-.png",
+	"wallpaper": "https://agit.ai/xiaowei/TV/raw/branch/master/TV/1.png",
 	"homepage": "https://m.huya.com/",
 	"lives": [{
 		"group": "redirect",
