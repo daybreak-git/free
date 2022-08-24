@@ -15,7 +15,7 @@
 	}],
 	"sites": [
 	    {"key": "csp_Yj1211","name": "📽️网红直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
-	    
+	    {"key":"csp_XYQBiu_虎牙直播","name":"虎牙直播(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/XYQBiu.jar","ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/虎牙代理直链.json"},
 		{
 			"key": "csp_77",
 			"name": "💓酷云七七（推荐）",
