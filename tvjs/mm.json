@@ -602,7 +602,7 @@
 			"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/dm84.json"
 		},{"key":"csp_xpath_cokemv","name":"Cokemv(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/cokemv.json"},
 		
-		{"key":"歌曲","name":"🅱️歌曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/歌曲.php","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/%e4%bf%ae%e5%a4%8dB%e7%ab%99.jar"},
+		{"key": "MV","name": "歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/B%e7%ab%99%e6%ad%8c%e6%9b%b2.json","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/%e4%bf%ae%e5%a4%8dB%e7%ab%99.jar"},
 		{"key":"戏曲","name":"🅱️戏曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/戏曲.php","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/%e4%bf%ae%e5%a4%8dB%e7%ab%99.jar"},
 		{"key":"幼儿乐园","name":"📚幼儿乐园（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/幼儿乐园.php","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/%e4%bf%ae%e5%a4%8dB%e7%ab%99.jar"},
 		{"key":"少儿教育","name":"📚少儿教育（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/少儿教育.php","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/%e4%bf%ae%e5%a4%8dB%e7%ab%99.jar"},
