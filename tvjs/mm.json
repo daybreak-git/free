@@ -605,7 +605,7 @@
 		{"key": "MV","name": "歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/B%e7%ab%99%e6%ad%8c%e6%9b%b2.json","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/%e4%bf%ae%e5%a4%8dB%e7%ab%99.jar"},
 		
 		{"key":"少儿","name":"📚教育（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/%e6%95%99%e8%82%b2.json","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/%e4%bf%ae%e5%a4%8dB%e7%ab%99.jar"},
-
+              {"key": "戏曲","name": "戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/%e4%bf%ae%e5%a4%8dB%e7%ab%99.jar"},
 	
             {"key":"csp_AliPS","name":"阿里盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"6e7d40b2babb452bab427ba0c2bc6703"	}
 	],
