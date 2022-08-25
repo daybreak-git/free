@@ -1,7 +1,7 @@
 📺黄枥葳电视台,#genre#
 广东珠江,http://ct.whosayssowhat.top:4022/udp/239.77.0.3:5146
 广东珠江,http://120.236.17.34:808/hls/249/index.m3u8
-星空卫视,http://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+
 广东卫视,http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8
 翡翠台,http://120.84.96.222:808/hls/25/index.m3u8
 翡翠台,http://120.84.96.221:808/hls/25/index.m3u8
