@@ -1,7 +1,7 @@
 //无公众号，不引流，只是为小白提供一个方便，接口缝合自巧技大佬和唐三大佬,大哥随便扒，记得改链接~
 {
-       "spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0821yuanhua.jar;md5;f540aab5f1252d82d11715bb4bb05659",
-	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/ts.jar;md5;aaed4811e1fc50a71866b8ecf1c0e067",
+       //"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0821yuanhua.jar;md5;f540aab5f1252d82d11715bb4bb05659",
+	"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0826.jar;md5;f772b0af73d43be1c8f1b664101b32a8",
       
 	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/xinyuanhua.jar;md5;93916acff9fc42ea3a679a8209bb640b",
   //"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/yuanhuaxb.jar;md5;acc9342e0488b454637854295249dfb1",
@@ -255,9 +255,9 @@
 			
 		{"key":"KanSJ_spider","name":"🛰️看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
                  
-		  {"key": "Bili","name": "哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/bili.json","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/%e4%bf%ae%e5%a4%8dB%e7%ab%99.jar"},
+		  {"key": "Bili","name": "👩‍哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1},
 		
-		// {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/bili.json"},
+		// {"key":"csp_BBB","name":"哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/bili.json"},
 	   
 		//		{"key":"293视频","name":"🎟293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 		
