@@ -1,8 +1,8 @@
 //无公众号，不引流，只是为小白提供一个方便，接口缝合自巧技大佬和唐三大佬,大哥随便扒，记得改链接~
 {
-       
-	"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/ts.jar;md5;aaed4811e1fc50a71866b8ecf1c0e067",
-	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0821yuanhua.jar;md5;f540aab5f1252d82d11715bb4bb05659",
+       "spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0821yuanhua.jar;md5;f540aab5f1252d82d11715bb4bb05659",
+	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/ts.jar;md5;aaed4811e1fc50a71866b8ecf1c0e067",
+      
 	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/xinyuanhua.jar;md5;93916acff9fc42ea3a679a8209bb640b",
   //"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/yuanhuaxb.jar;md5;acc9342e0488b454637854295249dfb1",
   //"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0821.jar;md5;fa546425c146fe48b37e94ea0cbdef50",
@@ -253,8 +253,9 @@
 			
 		{"key":"KanSJ_spider","name":"🛰️看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
                  
-		{"key": "Bili","name": "哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/bili.json"},
-		// {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐(已挂)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/bili.json"},
+		  {"key": "Bili","name": "哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/bili.json","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/%e4%bf%ae%e5%a4%8dB%e7%ab%99.jar"},
+		
+		// {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/bili.json"},
 	   
 		//		{"key":"293视频","name":"🎟293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 		
@@ -603,11 +604,10 @@
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/dm84.json"
 		},{"key":"csp_xpath_cokemv","name":"Cokemv(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/cokemv.json"},
+			{"key": "MV","name": "歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/B%e7%ab%99%e6%ad%8c%e6%9b%b2.json","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/%e4%bf%ae%e5%a4%8dB%e7%ab%99.jar"},
 		
-		{"key": "MV","name": "歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/B%e7%ab%99%e6%ad%8c%e6%9b%b2.json"},
-		
-		{"key":"少儿","name":"📚教育（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/%e6%95%99%e8%82%b2.json"},
-              {"key": "戏曲","name": "戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/B%e7%ab%99%e6%88%8f%e6%9b%b2.json"},
+		{"key":"少儿","name":"📚教育（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/%e6%95%99%e8%82%b2.json","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/%e4%bf%ae%e5%a4%8dB%e7%ab%99.jar"},
+              {"key": "戏曲","name": "戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/B%e7%ab%99%e6%88%8f%e6%9b%b2.json","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/%e4%bf%ae%e5%a4%8dB%e7%ab%99.jar"},
 	
             {"key":"csp_AliPS","name":"阿里盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"6e7d40b2babb452bab427ba0c2bc6703"	}
 	],
