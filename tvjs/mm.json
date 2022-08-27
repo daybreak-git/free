@@ -82,6 +82,15 @@
 		
 		{"key":"csp_XYQBiu_短视频","name":"分享短视频(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/XYQBiu.jar","ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/分享短视频.json"},           
 		{
+"key":"t4public",
+"name":"T4公共",
+"type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=6e7d40b2babb452bab427ba0c2bc6703&timeout=10",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":0
+  },
+		
+		{
 			"key": "天堂资源",
 			"name": "📌天堂资源(官)",
 			"type": 1,
