@@ -5,6 +5,8 @@
 
 翡翠台,http://113.64.147.83:808/hls/67/index.m3u8 
 翡翠台,http://113.64.147.93:808/hls/67/index.m3u8 
+翡翠台,http://kkmix2.f3322.net:770/hls/ch1/s.m3u8
+
 
 CCTV-1综合频道,http://39.136.48.18:8089/PLTV/88888888/224/3221225859/index.m3u8
 CCTV-1综合频道,http://222.240.82.92:9901/tsfile/live/0001_1.m3u8
