@@ -1,10 +1,10 @@
 //无公众号，不引流，只是为小白提供一个方便，接口缝合自巧技大佬和唐三大佬,大哥随便扒，记得改链接~
 {
-        
-	"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0826.jar;md5;f772b0af73d43be1c8f1b664101b32a8",
+         "spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/ts.jar;md55448540955b4c3f8fa8165a121059ce3";
+	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0826.jar;md5;f772b0af73d43be1c8f1b664101b32a8",
 	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0821yuanhua.jar;md5;f540aab5f1252d82d11715bb4bb05659",
 	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/xinyuanhua.jar;md5;93916acff9fc42ea3a679a8209bb640b",
-  //"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/yuanhuaxb.jar;md5;acc9342e0488b454637854295249dfb1",
+ 
   // "spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/mainjar.jar;md5;b173fa6f9ec130b949e36e880a43716f",
 	"wallpaper": "https://agit.ai/xiaowei/TV/raw/branch/master/TV/1.png",
 	"homepage": "https://m.huya.com/",
@@ -17,23 +17,9 @@
 	}],
 	"sites": [
 	    
-		
-		{       "key": "csp_77",
-			"name": "💓酷云七七（推荐）",
-			"type": 3,
-			"api": "csp_Kunyu77",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		}, {
-			"key": "360_spider",
-			"name": "📽️360影视（官）",
-			"api": "csp_SP360",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1
-		}, 
+		 {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+                {"key":"KanSJ","name":"看世界","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
 		{
 			"key": "小苹果",
 			"name": "🍎小苹果",
