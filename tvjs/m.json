@@ -1,7 +1,8 @@
 //无公众号，不引流，只是为小白提供一个方便，接口缝合自巧技大佬和唐三大佬,大哥随便扒，记得改链接~
 {
-         //"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/ts.jar;md5;5448540955b4c3f8fa8165a121059ce3",
+         
 	"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0826.jar;md5;f772b0af73d43be1c8f1b664101b32a8",
+	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/ts.jar;md5;5448540955b4c3f8fa8165a121059ce3",
 	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0821yuanhua.jar;md5;f540aab5f1252d82d11715bb4bb05659",
 	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/xinyuanhua.jar;md5;93916acff9fc42ea3a679a8209bb640b",
  
@@ -66,7 +67,16 @@
                         {"key": "csp_Yj1211","name": "📽️网红直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 	        	    {"key":"csp_XYQBiu_虎牙直播","name":"虎牙直播(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/XYQBiu.jar","ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/虎牙代理直链.json"},
 		
-		
+		{
+            "key": "Bili",
+            "name": "Bili(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/bili.json"
+        },
 			{
                   "key":"t4public",
                    "name":"T4公共",
@@ -603,7 +613,7 @@
 			"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/dm84.json"
 		},{"key":"csp_xpath_cokemv","name":"Cokemv(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/cokemv.json"},
 
-                {"key": "csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/Bili.json"},
+               // {"key": "csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":""},
                 {"key": "csp_Biliych","name":"🅱哔哩演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/Biliych.json"},
                 {"key":"幼儿乐园","name":"📚幼儿乐园（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/幼儿乐园.json"},
                 {"key":"少儿教育","name":"📚少儿教育（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/少儿教育.json"},
