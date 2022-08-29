@@ -75,8 +75,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/bili.json"
-        },
+            "ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/bili.json","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0.jar;md5;eae98ce31fb02cede605344c3b942668"},
 			{
                   "key":"t4public",
                    "name":"T4公共",
