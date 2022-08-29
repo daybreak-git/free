@@ -18,8 +18,9 @@
 	"sites": [
 	    
 		 {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
                 {"key":"KanSJ","name":"看世界","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
+		
+		
 		{
 			"key": "小苹果",
 			"name": "🍎小苹果",
@@ -75,6 +76,17 @@
                    "quickSearch":1,
                     "filterable":0
                     },
+		
+		{
+			"key": "360_spider",
+			"name": "📽️360影视（官）",
+			"api": "csp_SP360",
+			"type": 3,
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1
+		}, 
+		
 		{
 			"key": "天堂资源",
 			"name": "📌天堂资源(官)",
