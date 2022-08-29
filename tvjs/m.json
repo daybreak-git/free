@@ -67,15 +67,6 @@
                         {"key": "csp_Yj1211","name": "📽️网红直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 	        	    {"key":"csp_XYQBiu_虎牙直播","name":"虎牙直播(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/XYQBiu.jar","ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/虎牙代理直链.json"},
 		
-		{
-            "key": "Bili",
-            "name": "Bili(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/bili.json","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0.jar;md5;eae98ce31fb02cede605344c3b942668"},
 			{
                   "key":"t4public",
                    "name":"T4公共",
@@ -612,7 +603,7 @@
 			"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/dm84.json"
 		},{"key":"csp_xpath_cokemv","name":"Cokemv(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/cokemv.json"},
 
-               // {"key": "csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":""},
+                {"key": "csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":""},
                 {"key": "csp_Biliych","name":"🅱哔哩演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/Biliych.json"},
                 {"key":"幼儿乐园","name":"📚幼儿乐园（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/幼儿乐园.json"},
                 {"key":"少儿教育","name":"📚少儿教育（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/少儿教育.json"},
