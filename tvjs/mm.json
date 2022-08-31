@@ -18,15 +18,8 @@
 	"sites": [
 	    
 	
-		{
-			"key": "csp_77",
-			"name": "💓酷云七七（推荐）",
-			"type": 3,
-			"api": "csp_Kunyu77",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		}, {
+		{"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/ts.jar"},
+                 {
 			"key": "360_spider",
 			"name": "📽️360影视（官）",
 			"api": "csp_SP360",
