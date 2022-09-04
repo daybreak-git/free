@@ -1,7 +1,8 @@
 //无公众号，不引流，只是为小白提供一个方便，接口缝合自巧技大佬和唐三大佬,大哥随便扒，记得改链接~
 {
-	"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0826.jar;md5;f772b0af73d43be1c8f1b664101b32a8",
-//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0828.jar;md5;1c1482ff646cc40e1f924ebe320822bc",
+	
+	"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/ali.jar",
+	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0826.jar;md5;f772b0af73d43be1c8f1b664101b32a8",
 
 	//"wallpaper": "https://agit.ai/xiaowei/TV/raw/branch/master/TV/W-.png",
 	"homepage": "https://m.huya.com/",
@@ -37,6 +38,15 @@
             "quickSearch":1,
             "filterable":0
 },
+		{"key":"Alist","name":"一个网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://drive.9t.ee"},
+  
+  	{"key":"csp_Alist1","name":"Alist_一只鱼(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.youte.ml"},
+{"key":"csp_Alist2","name":"Alist_嗨翻(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.hikerfans.com"},
+{"key":"csp_Alist3","name":"Alist_晴园(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.52qy.repl.co"},
+{"key":"csp_Alist4","name":"资源小站","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://960303.xyz/"},
+{"key":"csp_Alist5","name":"Alist_七米蓝(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://al.chirmyram.com"},
+{"key":"csp_Alist6","name":"Alist_神族九帝(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.shenzjd.com"},{"key":"csp_Alist7","name":"小光盘","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.xiaoguanxiaocheng.life"},{"key":"csp_Alist8","name":"菊花盘","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.142856.xyz"},{"key":"csp_Alist9","name":"帅盘","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://hi.shuaipeng.wang"},
+{"key":"csp_Alist10","name":"轻谈浅唱","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://g.xiang.lol"},
 {"key":"csp_Alist22","name":"🐞Adult.Drive(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/alist/jar/alist.jar","ext":"https://drive.9t.ee"},
 //第一种方法，独立jar
 {
