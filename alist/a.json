@@ -1,4 +1,4 @@
-//无公众号，不引流，只是为小白提供一个方便，接口缝合自巧技大佬和唐三大佬,大哥随便扒，记得改链接~
+
 {
 	
 	"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/alist/jar/ali.jar",
@@ -38,6 +38,14 @@
             "quickSearch":1,
             "filterable":0
 },
+		{"key":"VIP1","name":"VIP1","type":4,"api":"http://vod.kooo.eu.org/t4/vip100001","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"VIP2","name":"VIP2","type":4,"api":"https://vod.kooo.eu.org/t4/vip100002","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"VIP4","name":"VIP4","type":4,"api":"https://vod.kooo.eu.org/t4/vip100004","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"VIP8","name":"VIP8","type":4,"api":"https://vod.kooo.eu.org/t4/vip100008","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"VIP16","name":"VIP16","type":4,"api":"https://vod.kooo.eu.org/t4/vip100016","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"VIP32","name":"VIP32","type":4,"api":"https://vod.kooo.eu.org/t4/vip100032","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"VIP64","name":"VIP64","type":4,"api":"https://vod.kooo.eu.org/t4/vip100064","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"VIP128","name":"VIP128","type":4,"api":"https://vod.kooo.eu.org/t4/vip100128","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"Alist","name":"一个网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://drive.9t.ee"},
   
   	{"key":"csp_Alist1","name":"Alist_一只鱼(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.youte.ml"},
