@@ -1,8 +1,8 @@
 
 {
 	
-	"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/alist/jar/ali.jar",
-	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0826.jar;md5;f772b0af73d43be1c8f1b664101b32a8",
+	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/alist/jar/ali.jar",
+	"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0903.jar;md5;888f16e7d29e9a5192636d2b427d35ce", 
 
 	//"wallpaper": "https://agit.ai/xiaowei/TV/raw/branch/master/TV/W-.png",
 	"homepage": "https://m.huya.com/",
