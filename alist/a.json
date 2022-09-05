@@ -98,7 +98,23 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		}, 
+		}, {
+
+      "key": "简影",
+
+      "name": "🌟简影",
+
+      "type": 4,
+
+      "api": "https://vod.kooo.eu.org/t4/vip11b016",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1
+
+    },
 
 {"key":"293视频","name":"2️⃣293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 
