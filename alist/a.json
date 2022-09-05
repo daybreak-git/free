@@ -1,7 +1,7 @@
 
 {
 	
-	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/alist/jar/ali.jar",
+	"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0904.jar;md5;ee77d27ee6ecfc4b6bcea8315954ec0c", 
 	"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0903.jar;md5;888f16e7d29e9a5192636d2b427d35ce", 
 
 	//"wallpaper": "https://agit.ai/xiaowei/TV/raw/branch/master/TV/W-.png",
@@ -168,7 +168,23 @@
                       "searchable": 1,
                       "quickSearch": 1,
                       "filterable": 1
-                    },
+                    },{
+
+      "key": "LocalFile_spider",
+
+      "name": "🐞本地文件(仅支持视频）",
+
+      "type": 3,
+
+      "api": "csp_LocalFile",
+
+      "searchable": 1,
+
+      "quickSearch": 0,
+
+      "filterable": 1
+
+    },
 		{
 			"key": "天堂资源",
 			"name": "📌天堂资源(官)",
