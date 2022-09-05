@@ -1,12 +1,9 @@
-//无公众号，不引流，只是为小白提供一个方便，接口缝合自巧技大佬和唐三大佬,大哥随便扒，记得改链接~
 {
-       //"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0821yuanhua.jar;md5;f540aab5f1252d82d11715bb4bb05659",
-	"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0828.jar;md5;1c1482ff646cc40e1f924ebe320822bc",
-      
-	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/xinyuanhua.jar;md5;93916acff9fc42ea3a679a8209bb640b",
-  //"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/yuanhuaxb.jar;md5;acc9342e0488b454637854295249dfb1",
-  //"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0821.jar;md5;fa546425c146fe48b37e94ea0cbdef50",
-	//"wallpaper": "https://agit.ai/xiaowei/TV/raw/branch/master/TV/W-.png",
+      "spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0903.jar;md5;888f16e7d29e9a5192636d2b427d35ce",  
+	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0826.jar;md5;f772b0af73d43be1c8f1b664101b32a8",
+	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/ts.jar;md5;5448540955b4c3f8fa8165a121059ce3",
+  // "spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/mainjar.jar;md5;b173fa6f9ec130b949e36e880a43716f",
+	//"wallpaper": "https://agit.ai/xiaowei/TV/raw/branch/master/TV/1.png",
 	"homepage": "https://m.huya.com/",
 	"lives": [{
 		"group": "redirect",
@@ -17,17 +14,9 @@
 	}],
 	"sites": [
 	    
-	
 		 {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/ts.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"},
-                 {
-			"key": "360_spider",
-			"name": "📽️360影视（官）",
-			"api": "csp_SP360",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1
-		}, 
+                {"key":"KanSJ","name":"看世界","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
+	
 		{
 			"key": "小苹果",
 			"name": "🍎小苹果",
@@ -57,6 +46,7 @@
 		}, 
 
 {"key":"293视频","name":"2️⃣293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
+
       {
       "key": "Gitcafe",
       "name": "小纸条",
@@ -69,15 +59,11 @@
     },
 		{"key": "csp_Yiso"    ,"name":"🐞易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"6e7d40b2babb452bab427ba0c2bc6703"},
 		{"key": "AliPS","name": "找资源(仅搜索)","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"6e7d40b2babb452bab427ba0c2bc6703"},
-         
-		{"key": "csp_Yj1211","name": "📽️网红直播(SP_虎牙已挂)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
-	    {"key":"csp_XYQBiu_虎牙直播","name":"虎牙直播(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/XYQBiu.jar","ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/虎牙代理直链.json"},
+                 
+                        {"key": "csp_Yj1211","name": "📽️网红直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
+	        	    {"key":"csp_XYQBiu_虎牙直播","name":"虎牙直播(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/XYQBiu.jar","ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/虎牙代理直链.json"},
 		
-		{"key":"csp_XYQBiu_短视频","name":"分享短视频(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/XYQBiu.jar","ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/分享短视频.json"},           
-		{"key": "T4","name": "T4爬虫","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=6e7d40b2babb452bab427ba0c2bc6703&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 0},
-
-		
-		{
+			{
                   "key":"t4public",
                    "name":"T4公共",
                    "type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=6e7d40b2babb452bab427ba0c2bc6703&timeout=10",
@@ -85,7 +71,49 @@
                    "quickSearch":1,
                     "filterable":0
                     },
+		{"key":"csp_Alist5","name":"Alist_七米蓝网盘(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://al.chirmyram.com"},
+			{"key":"KanSJ_spider","name":"🛰️看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+                {"key": "Bili","name": "👩‍哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1},
+		{"key": "csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/bili.json"},
+                {"key": "csp_Biliych","name":"🅱哔哩演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/Biliych.json"},
+                {"key":"幼儿乐园","name":"📚幼儿乐园（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/幼儿乐园.json"},
+                {"key":"少儿教育","name":"📚少儿教育（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/少儿教育.json"},
+                {"key":"小学课堂","name":"📚小学课堂（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/小学课堂.json"},
+                {"key":"初中课堂","name":"📚初中课堂（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/初中课堂.json"},
+                {"key":"高中教育","name":"📚高中课堂（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/高中课堂.json"},
+ 		{"key": "Bili_jsj","name": "计算机编程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/计算机编程.json"},
+		{"key": "戏曲","name": "戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/B%e7%ab%99%e6%88%8f%e6%9b%b2.json","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/%e4%bf%ae%e5%a4%8dB%e7%ab%99.jar"},
+	
+            {"key":"csp_AliPS","name":"阿里盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"6e7d40b2babb452bab427ba0c2bc6703"	},
+	
 		
+		    {
+                        "key": "csp_QQ",
+                        "name": "腾讯（官）",
+                        "type": 3,
+                        "api": "csp_QQ",
+                        "searchable": 1,
+                        "quickSearch": 1,
+                        "filterable": 1
+                        },
+                    {
+                    "key": "csp_MGTV",
+                    "name": "芒果（官）",
+                    "type": 3,
+                    "api": "csp_MGTV",
+                    "searchable": 1,
+                    "quickSearch": 1,
+                    "filterable": 1
+                     },
+		    {
+                      "key": "csp_IQIYI",
+                      "name": "爱奇艺（官）",
+                      "type": 3,
+                      "api": "csp_IQIYI",
+                      "searchable": 1,
+                      "quickSearch": 1,
+                      "filterable": 1
+                    },
 		{
 			"key": "天堂资源",
 			"name": "📌天堂资源(官)",
@@ -228,45 +256,8 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-
-		{
-			"key": "csp_QQ",
-			"name": "🐧腾讯（官）",
-			"type": 3,
-			"api": "csp_QQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/mainjar.jar;md5;b173fa6f9ec130b949e36e880a43716f"},
-		{
-			"key": "csp_MGTV",
-			"name": "🥭芒果（官）",
-			"type": 3,
-			"api": "csp_MGTV",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/mainjar.jar;md5;b173fa6f9ec130b949e36e880a43716f"},
-		{
-			"key": "csp_IQIYI",
-			"name": "🥝爱奇艺（官）",
-			"type": 3,
-			"api": "csp_IQIYI",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/mainjar.jar;md5;b173fa6f9ec130b949e36e880a43716f"},
-
-			
-		{"key":"KanSJ_spider","name":"🛰️看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-                 
-		  //{"key": "Bili","name": "👩‍哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1},
 		
-		// {"key":"csp_BBB","name":"哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/bili.json"},
-	   
-		//		{"key":"293视频","name":"🎟293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
-		
-		{
+	{
 			"key": "csp_AppYsV2",
 			"name": "🍹优众影视",
 			"type": 3,
@@ -349,7 +340,16 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/douyu.json"
-		},  {
+		}, {
+			"key": "csp_xpath_huya",
+			"name": "🐯虎牙直播",
+			"type": 3,
+			"api": "csp_XPathMacFilter",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/huya2.json"
+		}, {
 			"key": "csp_xpath_kuqimv",
 			"name": "🎤经典MV",
 			"type": 3,
@@ -601,38 +601,18 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/dm84.json"
-		},{"key":"csp_xpath_cokemv","name":"Cokemv(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/cokemv.json"},
-             
-{"key": "csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/bili.json","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/ts.jar"},
-{"key": "csp_Biliych","name":"🅱哔哩演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/Biliych.json"},
-{"key":"幼儿乐园","name":"📚幼儿乐园（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/幼儿乐园.json"},
-{"key":"少儿教育","name":"📚少儿教育（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/少儿教育.json"},
-{"key":"小学课堂","name":"📚小学课堂（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/小学课堂.json"},
-{"key":"初中课堂","name":"📚初中课堂（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/初中课堂.json"},
-{"key":"高中教育","name":"📚高中课堂（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/高中课堂.json"},
-              {"key": "戏曲","name": "戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/B%e7%ab%99%e6%88%8f%e6%9b%b2.json","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/%e4%bf%ae%e5%a4%8dB%e7%ab%99.jar"},
-	
-            {"key":"csp_AliPS","name":"阿里盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"6e7d40b2babb452bab427ba0c2bc6703"	}
+		},{"key":"csp_xpath_cokemv","name":"Cokemv(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/cokemv.json"}
+
+                
 	],
                    
 		
-	"parses": [{
-		"name": "解析聚合",
-		"type": 3,
-		"url": "Demo"
-	}, {
-		"name": "Json并发",
-		"type": 2,
-		"url": "Parallel"
-	}, {
-		"name": "Json轮询",
-		"type": 2,
-		"url": "Sequence"
-	}, {
-		"name": "GGTV快速",
-		"type": 1,
-		"url": "https://play.fuqizhishi.com/ganggang/API.php?appkey=QQ172598364&url="
-	}, {
+	"parses": [
+	{
+		"name": "葳解析（EXO播放器）",
+		"type": 0,
+		"url": "https://www.zqzdzj.com/label/v.html?url="
+	},{
 		"name": "m3u8tv高清",
 		"type": 0,
 		"url": "https://jx.m3u8.tv/jiexi/?url="
@@ -641,14 +621,9 @@
 		"type": 0,
 		"url": "https://jx.bozrc.com:4433/player/?url="
 	}, {
-		"name": "OKjx综合",
+		"name": "OK解析",
 		"type": 0,
 		"url": "https://okjx.cc/?url="
-	},
-	{
-		"name": "葳解析（EXO播放器）",
-		"type": 0,
-		"url": "https://www.zqzdzj.com/label/v.html?url="
 	}],
 	"flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
 	
