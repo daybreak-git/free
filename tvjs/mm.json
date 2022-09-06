@@ -1,9 +1,10 @@
 {
-      "spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0903.jar;md5;888f16e7d29e9a5192636d2b427d35ce",  
+       // "spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0904.jar;md5;ee77d27ee6ecfc4b6bcea8315954ec0c", 
+	"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0903.jar;md5;888f16e7d29e9a5192636d2b427d35ce",  
 	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0826.jar;md5;f772b0af73d43be1c8f1b664101b32a8",
 	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/ts.jar;md5;5448540955b4c3f8fa8165a121059ce3",
   // "spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/mainjar.jar;md5;b173fa6f9ec130b949e36e880a43716f",
-	//"wallpaper": "https://agit.ai/xiaowei/TV/raw/branch/master/TV/1.png",
+	"wallpaper": "https://agit.ai/xiaowei/TV/raw/branch/master/TV/1.png",
 	"homepage": "https://m.huya.com/",
 	"lives": [{
 		"group": "redirect",
@@ -43,7 +44,23 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		}, 
+		}, {
+
+      "key": "简影",
+
+      "name": "🌟简影",
+
+      "type": 4,
+
+      "api": "https://vod.kooo.eu.org/t4/vip11b016",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1
+
+    },
 
 {"key":"293视频","name":"2️⃣293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -70,12 +87,115 @@
                    "searchable":1,
                    "quickSearch":1,
                     "filterable":0
-                    },
+                    },{
+
+            "key":"VIP1",
+
+            "name": "1(T4)",
+
+            "type":4,
+
+            "api":"http://vod.kooo.eu.org/t4/vip110002",
+
+            "searchable":1,
+
+            "quickSearch":1,
+
+            "filterable":1
+
+        },
+
+        {
+
+            "key":"VIP2",
+
+            "name": "2(T4)",
+
+            "type":4,
+
+            "api":"https://vod.kooo.eu.org/t4/vip11a0c4",
+
+            "searchable":1,
+
+            "quickSearch":1,
+
+            "filterable":1
+
+        },{
+            "key":"VIP3",
+            "name": "4(T4)",
+            "type":4,
+            "api":"https://vod.kooo.eu.org/t4/vip11cx08",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"VIP4",
+            "name": "8(T4)",
+            "type":4,
+            "api":"https://vod.kooo.eu.org/t4/vip11b016",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },{
+            "key":"VIP5",
+            "name": "16(T4)",
+            "type":4,
+            "api":"https://vod.kooo.eu.org/t4/vip11a032",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"VIP6",
+            "name": "32(T4)",
+            "type":4,
+            "api":"https://vod.kooo.eu.org/t4/vip11fx64",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key":"VIP7",
+            "name": "64(T4)",
+            "type":4,
+            "api":"https://vod.kooo.eu.org/t4/vip11o128",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },{
+
+            "key":"VIP8",
+
+            "name": "128(T4)",
+
+            "type":4,
+
+            "api":"https://vod.kooo.eu.org/t4/vip11p256",
+
+            "searchable":1,
+
+            "quickSearch":1,
+
+            "filterable":1
+
+        },
+		{
+      "key": "LocalFile_spider",
+      "name": "🐞本地文件(仅支持视频）",
+      "type": 3,
+      "api": "csp_LocalFile",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
 		{"key":"csp_Alist5","name":"Alist_七米蓝网盘(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://al.chirmyram.com"},
 			{"key":"KanSJ_spider","name":"🛰️看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
                 {"key": "Bili","name": "👩‍哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1},
 		{"key": "csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/bili.json"},
-                {"key": "csp_Biliych","name":"🅱哔哩演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/Biliych.json"},
+                {"key": "csp_Bili","name":"🅱哔哩多分类套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/bilibili.json"},
+		{"key": "csp_Biliych","name":"🅱哔哩演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/Biliych.json"},
                 {"key":"幼儿乐园","name":"📚幼儿乐园（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/幼儿乐园.json"},
                 {"key":"少儿教育","name":"📚少儿教育（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/少儿教育.json"},
                 {"key":"小学课堂","name":"📚小学课堂（哔哩）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/小学课堂.json"},
@@ -624,6 +744,14 @@
 		"name": "OK解析",
 		"type": 0,
 		"url": "https://okjx.cc/?url="
+	},{
+
+		"name": "蓝光解析",
+
+		"type": 0,
+
+		"url": "https://www.daga.cc/vip1/?url="
+
 	}],
 	"flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
 	
