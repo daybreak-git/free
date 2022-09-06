@@ -789,7 +789,7 @@
 		
 	"parses": [
 	{
-		"name": "葳解析（EXO播放器）",
+		"name": "葳解析（放不了的话，请你换下EXO播放器，识某？😂😂）",
 		"type": 0,
 		"url": "https://www.zqzdzj.com/label/v.html?url="
 	},{
@@ -800,10 +800,14 @@
 		"name": "parwix稳定",
 		"type": 0,
 		"url": "https://jx.bozrc.com:4433/player/?url="
-	}, {
-		"name": "OK解析",
+	}, ,{
+
+		"name": "蓝光解析",
+
 		"type": 0,
-		"url": "https://okjx.cc/?url="
+
+		"url": "https://www.daga.cc/vip1/?url="
+
 	}],
 	"flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
 	
