@@ -15,7 +15,9 @@
 	}],
 	"sites": [
 	    
-		 {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1"},
+		
+                {"key":"csp_Kunyu77","name":"👒七七(SP)®一小朵💎","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+		 //{"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1"},
                 {"key":"KanSJ","name":"看世界","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
 	
 		{
