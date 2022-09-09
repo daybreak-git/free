@@ -1,6 +1,15 @@
 {
 	"sites": [
-		
+		{
+			"key": "小苹果",
+			"name": "🍎主力源",
+			"type": 3,
+			"api": "csp_LiteApple",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
+		},
 		{
 			"key": "csp_Kunyu77",
 			"name": "🍎备份源一",
@@ -1604,17 +1613,3 @@
 		"cms.qdwght.com"
 	]
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
