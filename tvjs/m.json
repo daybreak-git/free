@@ -18,7 +18,7 @@
 		
 		 {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1"},
                 {"key":"KanSJ","name":"看世界","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
-	
+	{"key": "csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/bili.json","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/bili.jpg"},
 		{
 			"key": "小苹果",
 			"name": "🍎小苹果",
