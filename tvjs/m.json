@@ -1,6 +1,6 @@
 {
-       //"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tangsan/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
-	"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0903.jar;md5;888f16e7d29e9a5192636d2b427d35ce",  
+       "spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tangsan/jar/0906.jar;md5;c22e877441db6f0b3247e24be2dd4a44",
+	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0903.jar;md5;888f16e7d29e9a5192636d2b427d35ce",  
 	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0826.jar;md5;f772b0af73d43be1c8f1b664101b32a8",
 	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/ts.jar;md5;5448540955b4c3f8fa8165a121059ce3",
   // "spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/mainjar.jar;md5;b173fa6f9ec130b949e36e880a43716f",
@@ -79,7 +79,7 @@
 		{"key": "AliPS","name": "找资源(仅搜索)","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"6e7d40b2babb452bab427ba0c2bc6703"},
                  
                         {"key": "csp_Yj1211","name": "📽️网红直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
-	        	    {"key":"csp_XYQBiu_虎牙直播","name":"虎牙直播(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/虎牙代理直链.json","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0909.jar"},
+	        	    {"key":"csp_XYQBiu_虎牙直播","name":"虎牙直播(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/虎牙代理直链.json"},
 		
 			{
                   "key":"t4public",
