@@ -9,9 +9,8 @@
 广东珠江,http://113.101.124.234:808/hls/17/index.m3u8$高清720P
 广东珠江,http://113.101.124.246:808/hls/17/index.m3u8$高清720P
 广东卫视,http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8
-TVB翡翠,http://23.237.10.66:16106$高清1080P
-TVB翡翠,http://1b6467f415.iok.la:113/tsfile/live/1053_1.m3u8$高清1080P
 TVB翡翠,http://113.64.147.30:808/hls/67/index.m3u8$高清1080P
+TVB翡翠,http://23.237.10.66:16106$高清1080P
 TVB翡翠,http://1b6467f415.iok.la:113/tsfile/live/1053_1.m3u8$高清1080P
 李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 CCTV1,rtsp://221.203.83.34:554/PLTV/88888888/224/0/3221226118/iptv65795.smil$超清1080P
