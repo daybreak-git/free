@@ -14,8 +14,8 @@
 			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3hpYW93ZWkvVFYvcmF3L2JyYW5jaC9tYXN0ZXIvVFYvdHYvbGl2ZS50eHQ="]
 		}]
 	}],
-	"sites": [
-	           // 豆瓣热搜
+	
+	// 豆瓣热搜
 // 感谢海王提供的豆瓣api
 
 "hotSearch": [{
@@ -42,6 +42,8 @@
         ]
     }
 }],
+	"sites": [
+	         
 		
 		 {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1"},
                 {"key":"KanSJ","name":"看世界","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
