@@ -92,8 +92,7 @@
       "quickSearch": 0,
       "filterable": 1
     },
-		{"key":"csp_Alist5","name":"Alist_七米蓝网盘(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://al.chirmyram.com"},
-			
+		
                 //{"key": "Bili","name": "👩‍哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1},
 		{"key": "csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/bili.json"},
                 {"key": "csp_Bili","name":"🅱哔哩多分类套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/bilibili.json"},
