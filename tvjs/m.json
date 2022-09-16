@@ -618,23 +618,23 @@
                 {"name":"自用","type":1,"url":"https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="},
 		{
 		"name": "葳解析",
-		"type": 0,
+		"type": 1,
 		"url": "https://www.zqzdzj.com/label/v.html?url="
 	}, {
 
 		"name": "蓝光解析",
 
-		"type": 0,
+		"type": 1,
 
 		"url": "https://www.daga.cc/vip1/?url="
 
 	},{
 		"name": "极速蓝光",
-		"type": 0,
+		"type": 1,
 		"url": "https://vip.2ktvb.com/player/?xf=languang&url="
 	}, {
 		"name": "parwix稳定",
-		"type": 0,
+		"type": 1,
 		"url": "https://jx.bozrc.com:4433/player/?url="
 	}],
 	"flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
