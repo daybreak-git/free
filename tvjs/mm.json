@@ -1,11 +1,9 @@
 {
-	"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0912.jar;md5;e4d6649a806929aa2cf6ea7e490a8d18",
+	
+	"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0917.jar;md5;89a367a21768e46bc528b6ecf735e1b3",
+	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0912.jar;md5;e4d6649a806929aa2cf6ea7e490a8d18",
      //"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/XC0912.jar;md5;C414D45690C43CDFEB051F7EB96185B2",
-      //"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0906.jar;md5;c22e877441db6f0b3247e24be2dd4a44",
-	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0903.jar;md5;888f16e7d29e9a5192636d2b427d35ce",  
-	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0826.jar;md5;f772b0af73d43be1c8f1b664101b32a8",
-	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/ts.jar;md5;5448540955b4c3f8fa8165a121059ce3",
-	"wallpaper": "https://agit.ai/xiaowei/TV/raw/branch/master/TV/1.png",
+
 	"homepage": "https://m.huya.com/",
 	"lives": [{
 		"group": "redirect",
@@ -47,7 +45,7 @@
 		
 		 {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1"},
                 {"key":"KanSJ","name":"看世界","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
-	{"key": "csp_Bili合集","name":"哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/B站.txt","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/bili.jpg"},
+	{"key": "csp_Bili合集","name":"哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/B站.txt"},
 		{
 			"key": "小苹果",
 			"name": "🍎小苹果",
@@ -91,7 +89,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1
-    },			
+    },
+		
                 //{"key": "Bili","name": "👩‍哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1},
 		{"key": "csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/bili.json"},
                 {"key": "csp_Bili","name":"🅱哔哩多分类套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/bilibili.json"},
@@ -628,12 +627,12 @@
 		"url": "https://www.daga.cc/vip1/?url="
 
 	},{
-		"name": "m3u8tv高清",
+		"name": "极速蓝光",
 		"type": 0,
-		"url": "https://jx.m3u8.tv/jiexi/?url="
+		"url": "https://vip.2ktvb.com/player/?xf=languang&url="
 	}, {
 		"name": "parwix稳定",
-		"type": 0,
+		"type": 1,
 		"url": "https://jx.bozrc.com:4433/player/?url="
 	}],
 	"flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
