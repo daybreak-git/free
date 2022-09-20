@@ -42,17 +42,7 @@
     }
 }],
 	"sites": [
-	         
-		            {  "key": "csp_Alist",
-   "name": "🗂Alist",
-   "type": 3,
-   "api": "csp_Alist",
-   "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 0,
-   "ext": "https://agit.ai/xiaowei/TV/raw/branch/master/alist/alist.json"},
-		
-		
+
 		 {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1"},
                 {"key":"KanSJ","name":"看世界","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
 	{"key": "csp_Bili合集","name":"哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/B站.txt"},
@@ -91,6 +81,17 @@
                    "quickSearch":1,
                     "filterable":0
                     },
+		{
+			"key": "csp_Alist",
+			"name": "🗂Alist",
+			"type": 3,
+			"api": "csp_Alist",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/alist/alist.json"
+		},
+
 		{
       "key": "LocalFile_spider",
       "name": "🐞本地文件(仅支持视频）",
