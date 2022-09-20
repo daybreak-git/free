@@ -1,9 +1,9 @@
 
 {
+
+	"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0919.jar;md5;1bdb09562c5d0fb27bf32cfa1eadd897", 
 	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/XYQBiu.jar", 
 	//"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tangsan/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
-	"spider": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/0919.jar;md5;1bdb09562c5d0fb27bf32cfa1eadd897", 
-
 	//"wallpaper": "https://agit.ai/xiaowei/TV/raw/branch/master/TV/W-.png",
 	"homepage": "https://m.huya.com/",
 	"lives": [{
@@ -26,7 +26,7 @@
 			"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/alist/alist.json"},
 		
 
- {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/ts.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"},
+ {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"},
                 {"key":"KanSJ","name":"看世界","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
 	
 		{
@@ -55,26 +55,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		}, {
-
-      "key": "简影",
-
-      "name": "🌟简影",
-
-      "type": 4,
-
-      "api": "https://vod.kooo.eu.org/t4/vip11b016",
-
-      "searchable": 1,
-
-      "quickSearch": 1,
-
-      "filterable": 1
-
-    },
-
-{"key":"293视频","name":"2️⃣293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
-
+		}, 
       {
       "key": "Gitcafe",
       "name": "小纸条",
@@ -89,8 +70,8 @@
 		{"key": "AliPS","name": "找资源(仅搜索)","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"6e7d40b2babb452bab427ba0c2bc6703"},
                  
                         {"key": "csp_Yj1211","name": "📽️网红直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
-	        	    {"key":"csp_XYQBiu_虎牙直播","name":"虎牙直播(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/XYQBiu.jar","ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/虎牙代理直链.json"},
-		
+                        {"key": "csp_XYQBiu_虎牙","name":"🐯虎牙","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/hy.json"},
+			
 			{
                   "key":"t4public",
                    "name":"T4公共",
