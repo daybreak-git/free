@@ -10,7 +10,7 @@
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3hpYW93ZWkvVFYvcmF3L2JyYW5jaC9tYXN0ZXIvVFYvdHYvbGl2ZS50eHQ="]
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9wcC54bWw="]
 		}]
 	}],
 	"sites": [
@@ -24,59 +24,8 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/alist/alist.json"},
-		{"key":"Alist","name":"一个网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://drive.9t.ee"}, 
-{"key":"csp_Alist1","name":"Alist_一只鱼(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.youte.ml"},
-{"key":"csp_Alist2","name":"Alist_嗨翻(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.hikerfans.com"},
-{"key":"csp_Alist3","name":"Alist_晴园(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.52qy.repl.co"},
-{"key":"csp_Alist4","name":"资源小站","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://960303.xyz/"},
-{"key":"csp_Alist5","name":"Alist_七米蓝(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://al.chirmyram.com"},
-{"key":"csp_Alist6","name":"Alist_神族九帝(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.shenzjd.com"},{"key":"csp_Alist7","name":"小光盘","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.xiaoguanxiaocheng.life"},{"key":"csp_Alist8","name":"菊花盘","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.142856.xyz"},{"key":"csp_Alist9","name":"帅盘","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://hi.shuaipeng.wang"},
-{"key":"csp_Alist10","name":"轻谈浅唱","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://g.xiang.lol"},
-{"key":"csp_Alist22","name":"🐞Adult.Drive(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/alist/jar/alist.jar","ext":"https://drive.9t.ee"},
-//第一种方法，独立jar
-{
-  "key": "csp_Alist1",
-  "name": "一只鱼",
-  "type": 3,
-  "api": "csp_Alist",
-  "searchable": 0,
-  "quickSearch": 0,
-  "filterable": 0,
-  "ext": "https://alist.youte.ml"
- },
-//第二种方法，jar支持
-{
-  "key": "csp_Alist2",
-  "name": "七米蓝",
-  "type": 3,
-  "api": "csp_Alist",
-  "searchable": 0,
-  "quickSearch": 0,
-  "filterable": 0,
-  "ext": "https://al.chirmyram.com"
- },
-{"key":"afreecatv",     "name":"afreecatv","type":1,"api":"http://wabc.ml/cs.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Alist",     "name":"Alist","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://drive.9t.ee","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/alist/jar/A3.jar"},
-{
-  "key": "csp_Alist9",
-  "name": "梓澪の妙妙屋",
-  "type": 3,
-  "api": "csp_Alist",
-  "searchable": 0,
-  "quickSearch": 0,
-  "filterable": 0,
-  "ext": "https://xn--i0v44m.xyz/"
- },
-{
-  "key": "csp_Alist10",
-  "name": "嗨翻",
-  "type": 3,
-  "api": "csp_Alist",
-  "searchable": 0,
-  "quickSearch": 0,
-  "filterable": 0,
-  "ext": "https://pan.hikerfans.com/"
- },
+		
+
  {"key":"Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/ts.jar;md5;1b0fae7c99b09c6f66d6c39b114580a9"},
                 {"key":"KanSJ","name":"看世界","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
 	
