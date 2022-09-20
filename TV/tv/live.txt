@@ -3,7 +3,7 @@
 珠江频道,http://fxhack.f3322.org:8000/udp/239.77.0.1:5146
 珠江频道,http://61.143.45.150:9901/tsfile/live/0018_1.m3u8
 珠江频道,http://171.108.239.47:8181/tsfile/live/1001_1.m3u8
-珠江频道,https://epg.pm/stream/fddd82632d7dcf1065c056aeafd521bd97374baa5863db5d9ba4d0bf1f13eef9.m3u8
+珠江频道,https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=1e85edf7620a8e49457befdc89815cb0-nN2c3Kt%2BVpQM8pQ1ensI8jahepS8oI7rrhhBj3Yd2IHlyA4nckOEp2JnAoA1zxGNt5bk%2BAZE6Dy9jk5yib2vWzEd9mAyzV065ZeUrUo0I6gWR%2Fl3UEg9YiSqYPGosjDphy7mPFL8pBHDJMCcH4R9%2BBVzeOrta910mmbaUR%2FMgNb0VUq2AuRqxUhTxa%2BK%2B4Brzu5wpWOiWi5ImMxNjAfZcQO22zhzYeANGKrPDKHBq2gju7oPcGCCJM7EWJZUx8%2FkUgKxgZDl99AwKD32qBGpB961Ldx7FFyYYviAxcsOg%2BWgoj2cP5ghPBH8YsGqhAEXYEF1yetQG%2Fm%2BIVrtQ1zGhmgX5%2BqqWDG%2BGudQ9BKJ6wVpMTkEH5xoJMs8h85xTUATtvfVFTFF5J4%2FZKm28XEROA%3D%3D
 广东卫视,http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8
 TVB翡翠,http://113.64.147.30:808/hls/67/index.m3u8$高清1080P
 TVB翡翠,http://23.237.10.66:16106$高清1080P
