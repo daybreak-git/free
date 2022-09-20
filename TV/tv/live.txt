@@ -3,7 +3,7 @@
 珠江频道,http://fxhack.f3322.org:8000/udp/239.77.0.1:5146
 珠江频道,http://61.143.45.150:9901/tsfile/live/0018_1.m3u8
 珠江频道,http://171.108.239.47:8181/tsfile/live/1001_1.m3u8
-珠江频道,https://epg.pm/stream/2315966b5a101566281132c779618a158aa34f7467a531adb05e2b33661a6cb4.m3u8
+珠江频道,https://epg.pm/stream/fddd82632d7dcf1065c056aeafd521bd97374baa5863db5d9ba4d0bf1f13eef9.m3u8
 广东卫视,http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8
 TVB翡翠,http://113.64.147.30:808/hls/67/index.m3u8$高清1080P
 TVB翡翠,http://23.237.10.66:16106$高清1080P
