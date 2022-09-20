@@ -9,7 +9,7 @@
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzEwNjI5MzA2MjkvZnJlZS9tYXN0ZXIvVFYvdHYvbGl2ZS50eHQ="]
+			"urls": ["proxy://do=live&type=txt&ext=https://raw.githubusercontent.com/1062930629/free/master/TV/tv/live.txt"]
 		}]
 	}],
 	
