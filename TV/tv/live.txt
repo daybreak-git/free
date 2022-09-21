@@ -1,5 +1,5 @@
 📺黄枥葳电视台,#genre#
-珠江频道,https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=71fe468313f00f69f7067346567906e7-3wBsRkRGk4%2B2ktXpWOOHzNaINEXqXNHEdYNoS0trLfUcv%2FCg02SMYJ2OaPohyro%2FmPszxjVQkKPJnsZCWpCwPwZy4xpH9%2FFq83N4TUPp6kNf5pAsmqIJbaSANBBWfSEiGRAAYqeM93FNuvbVMNrwNEEwBk10WlL2DiA39s2kZ894Ri6ou%2BVlfzRQl0CE2LgkPY9gHIj7BeEsv%2BZfj841IvBToLgvKHvaCkh47Kz4UScuIAy%2Bv2M2GLRedeuh8j9BFa89bwfWuNyHwhR9sggWV7OWFyMltC2AGGwpiIzK7rhKyTIuDoIrPuy1JVzpLd%2B7DT08B7l7qpBCuSUTAuTtel7lrY7aInlw1jdG%2BC6oaxaTRMnpxi6hP5oUGfVRI1gfDHvQLDwt3eAux3lwhNihwA%3D%3D
+珠江频道,http://epg.112114.xyz/www.gdtv.cn/tvChannelDetail/44
 广东卫视,http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8
 珠江频道,http://218.17.216.102:9901/tsfile/live/1001_1.m3u8
 珠江频道,http://fxhack.f3322.org:8000/udp/239.77.0.1:5146
