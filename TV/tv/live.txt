@@ -6,8 +6,9 @@
 珠江频道,http://61.143.45.150:9901/tsfile/live/0018_1.m3u8
 珠江频道,http://171.108.239.47:8181/tsfile/live/1001_1.m3u8
 结婚live(EXO播放器),https://photovideo.photo.qq.com/1075_0b53rdar7baau4amp4rjkvrthcaed42aaysa.f0.mp4?dis_k=14379c627f02463f9533ae33355a467d&dis_t=1663768466&vuin=2227273148&owner=MjIyNzI3MzE0OA==
-骚白,http://akm-tct.douyucdn.cn/live/911rsaobai.flv?uuid=
-冯提莫,https://cn-jsnt-ct-01-02.bilivideo.com/live-bvc/125189/live_436473455_62812040_bluray.m3u8?expires=1663770951&len=0&oi=2094925187&pt=h5&qn=10000&trid=10030b706567205b4513b5fddbc6f6bea7aa&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=1f47f0d890804b8fc6584c64d0c892e3&sk=ca1878df0cea8ab0b33758968f6d1541&p2p_type=0&src=57345&sl=5&free_type=0&sid=cn-jsnt-ct-01-02&chash=1&score=14&pp=rtmp&source=one&site=32532010ffa92856e553ab2aca74186a&order=1
+骚白,http://epg.112114.xyz/douyu/419917
+张大仙,http://epg.112114.xyz/huya/688
+冯提莫,http://epg.112114.xyz/live.bilibili.com/1314
 TVB翡翠,http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
 TVB翡翠,http://23.237.10.66:16106$高清1080P
 TVB翡翠,http://1b6467f415.iok.la:113/tsfile/live/1053_1.m3u8$高清1080P
