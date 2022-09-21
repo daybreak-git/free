@@ -451,6 +451,7 @@ CGTN,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226756/100001000000000600000
 
 兵团十三师新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8$高清1080P
 兵团十四师昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8$高清1080P
+小团团,http://epg.112114.xyz/douyu/4615502
 
 陈招龙🐆🐅虎牙台,#genre#
 周星驰-粤语,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
