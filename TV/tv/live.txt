@@ -1,10 +1,10 @@
 📺黄枥葳电视台,#genre#
-珠江频道,https://wslizhi.gdtv.cn/live/wslive.gdtv.cn_gdws-1663901139484.ts?auth_key=1663902903-0-0-d6f27a462df9c8b6e7234e9a1bdb9c3dfab6074220
-广东卫视,http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8
+珠江频道,https://tcdn.itouchtv.cn/live/gdws.m3u8?t_token=064bd8a616de00bddf01fee3b26d4e11-FDbTM8aZyoZOkd9RFNdGYws8So0X5SbtVPqfQXeKc4HTfef0RNd2RN3eCM%2BWTt4hgWIQToZXb3UPzqgmHmIcR5BmBhBB3BtO0WCBwZVvdkLbjEAuJPTR4njPI3vp4it6Lg495KcS%2BFoL5z4lLpTKdtTy037sRaMpmAiF7MnKmmd1yiNqlC7DUmSSDPxkRY%2BNwNT55e%2Frw3ZC0Nw2tk2%2B83eoNWR%2BfRIT1e%2FRDyzmx59LdUo2xPiU4t3bHB%2BcJV72zoeLOSAbUnLnoORVZMgOPKKH%2B7UbTE9%2FJZTxbeLYzj3kh97SSE24RRbhw%2FbcWWItmHlDsLmZVZsvot8l22ktQ3LP43J%2BrFEv4kFdnbi890qDzI1YmWc947Y6wbv%2F%2FEemOx0Yt6MAsOzAJeAA2CiO0A%3D%3D
 珠江频道,http://218.17.216.102:9901/tsfile/live/1001_1.m3u8
 珠江频道,http://fxhack.f3322.org:8000/udp/239.77.0.1:5146
 珠江频道,http://61.143.45.150:9901/tsfile/live/0018_1.m3u8
 珠江频道,http://171.108.239.47:8181/tsfile/live/1001_1.m3u8
+广东卫视,http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8
 结婚live(EXO播放器),https://photovideo.photo.qq.com/1075_0b53rdar7baau4amp4rjkvrthcaed42aaysa.f0.mp4?dis_k=14379c627f02463f9533ae33355a467d&dis_t=1663768466&vuin=2227273148&owner=MjIyNzI3MzE0OA==
 骚白,http://epg.112114.xyz/douyu/419917
 张大仙,http://epg.112114.xyz/huya/688
