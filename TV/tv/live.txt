@@ -1,5 +1,5 @@
 📺黄枥葳电视台,#genre#
-珠江频道,http://epg.112114.xyz/www.gdtv.cn/tvChannelDetail/44
+珠江频道,https://wslizhi.gdtv.cn/live/wslive.gdtv.cn_gdws-1663900869443.ts?auth_key=1663902636-0-0-1fab6074220
 广东卫视,http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8
 珠江频道,http://218.17.216.102:9901/tsfile/live/1001_1.m3u8
 珠江频道,http://fxhack.f3322.org:8000/udp/239.77.0.1:5146
