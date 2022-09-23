@@ -66,7 +66,7 @@
       "filterable": 1,
       "ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/wei.txt"
     },
-		{"key": "csp_Yiso"    ,"name":"🐞易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/wei.txt"},
+		{"key": "csp_Yiso"    ,"name":"🐞易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"398d1e5bd78549119eebbdb9b6133260"},
 		{"key": "AliPS","name": "找资源(仅搜索)","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/wei.txt"},
                  
                         {"key": "csp_Yj1211","name": "📽️网红直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
