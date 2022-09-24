@@ -72,15 +72,7 @@
                         {"key": "csp_Yj1211","name": "📽️网红直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 	        	 
                         {"key": "csp_XYQBiu_虎牙","name":"🐯虎牙","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/js/hy.json"},
-		
-			{
-                  "key":"t4public",
-                   "name":"T4公共",
-                   "type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/wei.txt&timeout=10",
-                   "searchable":1,
-                   "quickSearch":1,
-                    "filterable":0
-                    },
+		//{"key":"t4public", "name":"T4公共",  "type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/wei.txt&timeout=10", "searchable":1,"quickSearch":1, "filterable":0  },
 		{
       "key": "LocalFile_spider",
       "name": "🐞本地文件(仅支持视频）",
