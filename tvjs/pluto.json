@@ -186,10 +186,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "0baab588e3654db380cfb40716472ca2"
+      "ext": "5ea0ad657abf44238308be2f215a6d6f"
     },
-		{"key": "csp_Yiso"    ,"name":"🐞易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"0baab588e3654db380cfb40716472ca2"},
-		{"key": "AliPS","name": "找资源(仅搜索)","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"0baab588e3654db380cfb40716472ca2"},
+		{"key": "csp_Yiso"    ,"name":"🐞易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"5ea0ad657abf44238308be2f215a6d6f"},
+		{"key": "AliPS","name": "找资源(仅搜索)","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"5ea0ad657abf44238308be2f215a6d6f"},
                  
                         {"key": "csp_Yj1211","name": "📽️网红直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 	        	 
@@ -198,7 +198,7 @@
 			{
                   "key":"t4public",
                    "name":"T4公共",
-                   "type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=0baab588e3654db380cfb40716472ca2&timeout=10",
+                   "type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=5ea0ad657abf44238308be2f215a6d6f&timeout=10",
                    "searchable":1,
                    "quickSearch":1,
                     "filterable":0
@@ -225,7 +225,7 @@
  		{"key": "Bili_jsj","name": "计算机编程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/计算机编程.json"},
 		{"key": "戏曲","name": "戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/B/B%e7%ab%99%e6%88%8f%e6%9b%b2.json","jar":"https://agit.ai/xiaowei/TV/raw/branch/master/tvjs/jar/%e4%bf%ae%e5%a4%8dB%e7%ab%99.jar"},
 	
-            {"key":"csp_AliPS","name":"阿里盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"6e7d40b2babb452bab427ba0c2bc6703"	},
+            {"key":"csp_AliPS","name":"阿里盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"5ea0ad657abf44238308be2f215a6d6f"	},
 	
 		
 		    {
